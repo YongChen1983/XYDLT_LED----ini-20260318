@@ -1,0 +1,115 @@
+F:\软件等\LEDbig\bin\Debug\Setting.ini
+F:\软件等\LEDbig\obj\Debug\XYDLT_LED.csproj.GenerateResource.cache
+F:\软件等\LEDbig\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+F:\软件等\LEDbig\bin\Debug\XYDLT_LED.exe.config
+F:\软件等\LEDbig\bin\Debug\XYDLT_LED.exe
+F:\软件等\LEDbig\bin\Debug\XYDLT_LED.pdb
+F:\软件等\LEDbig\obj\Debug\XYDLT_LED.Properties.Resources.resources
+F:\软件等\LEDbig\obj\Debug\XYDLT_LED.exe
+F:\软件等\LEDbig\obj\Debug\XYDLT_LED.pdb
+F:\软件等\LEDbig\obj\Debug\XYDLT_LED.Form1.resources
+F:\软件等\LEDbig\obj\Debug\XYDLT_LED.csprojAssemblyReference.cache
+F:\软件等\XYDLT_LED\bin\Debug\Setting.ini
+F:\软件等\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+F:\软件等\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+F:\软件等\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+F:\软件等\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+F:\软件等\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+F:\软件等\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.cache
+F:\软件等\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+F:\软件等\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+F:\软件等\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+C:\Users\hp\Desktop\XYDLT_LED\bin\Debug\Setting.ini
+C:\Users\hp\Desktop\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+C:\Users\hp\Desktop\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+C:\Users\hp\Desktop\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+C:\Users\hp\Desktop\XYDLT_LED\obj\Debug\XYDLT_LED.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+C:\Users\hp\Desktop\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+C:\Users\hp\Desktop\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+C:\Users\hp\Desktop\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\bin\Debug\Setting.ini
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+C:\Users\hp\Desktop\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+F:\软件等\参观版大屏程序\XYDLT_LED\bin\Debug\Setting.ini
+F:\软件等\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+F:\软件等\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+F:\软件等\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+F:\软件等\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+F:\软件等\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+F:\软件等\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.cache
+F:\软件等\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+F:\软件等\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+F:\软件等\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\bin\Debug\Setting.ini
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.AssemblyReference.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\C#\大屏看板程序\XYDLT_LED-新\参观版大屏程序\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\bin\Debug\Setting.ini
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\obj\Debug\XYDLT_LED.csprojResolveAssemblyReference.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.Cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\bin\Debug\Setting.ini
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新 - 副本\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.Cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\bin\Debug\Setting.ini
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.Cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.AssemblyReference.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.AssemblyReference.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.pdb
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\bin\Debug\Setting.ini
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+D:\工作资料库\4.公司文件\1.襄阳东风李尔泰极爱思汽车座椅有限公司\14.软件开发\公司程序\大屏看板程序\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\bin\Debug\Setting.ini
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\bin\Debug\XYDLT_LED.exe.config
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\bin\Debug\XYDLT_LED.exe
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\bin\Debug\XYDLT_LED.pdb
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.AssemblyReference.cache
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.Form1.resources
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.Properties.Resources.resources
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.GenerateResource.cache
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.csproj.CoreCompileInputs.cache
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.exe
+C:\Users\ychen\Desktop\XYDLT_LED-新-增加R车与修改取消 - 20250929\XYDLT_LED\obj\Debug\XYDLT_LED.pdb

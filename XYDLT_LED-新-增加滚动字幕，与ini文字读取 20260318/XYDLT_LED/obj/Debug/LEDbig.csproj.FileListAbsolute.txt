@@ -1,0 +1,11 @@
+F:\软件等\LEDbig\bin\Debug\LEDbig.exe.config
+F:\软件等\LEDbig\bin\Debug\LEDbig.exe
+F:\软件等\LEDbig\bin\Debug\LEDbig.pdb
+F:\软件等\LEDbig\obj\Debug\LEDbig.Form1.resources
+F:\软件等\LEDbig\obj\Debug\LEDbig.Properties.Resources.resources
+F:\软件等\LEDbig\obj\Debug\LEDbig.csproj.GenerateResource.cache
+F:\软件等\LEDbig\obj\Debug\LEDbig.csproj.CoreCompileInputs.cache
+F:\软件等\LEDbig\obj\Debug\LEDbig.exe
+F:\软件等\LEDbig\obj\Debug\LEDbig.pdb
+F:\软件等\LEDbig\bin\Debug\Setting.ini
+F:\软件等\LEDbig\obj\Debug\LEDbig.csprojAssemblyReference.cache
